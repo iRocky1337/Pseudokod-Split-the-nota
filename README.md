@@ -8,6 +8,8 @@ Det finns två problem, ett för **G** och ett för **VG**. För att få **VG** 
 
 All "kodning" skall göras inom anvisade block i filen script.js. Där finns även förslag på startkod. Denna är frivillig att använda, och vill man istället skriva helt egen pseudokod från "scratch" så är detta tillåtet.
 
+![Skärmbild](skärmbild.png)
+
 
 ## G-nivå - Split the nota
 
